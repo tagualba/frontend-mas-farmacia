@@ -1,0 +1,90 @@
+.downBar{
+    background-color: #000000;
+    opacity: 0.9;
+    padding-bottom: 5px;    
+    text-align: right;
+}
+
+.downBar a{
+    font-size: 14px;
+    padding-left:10px ;
+    padding-right: 10px;
+    color:#Ffff;
+}
+
+.NewsLeterTitle{
+    color:#ffff;
+    text-align: center;
+}
+
+.downBar .form-control{
+    border-radius: 10px;
+}
+
+.NewsLetterButton{
+    border-radius: 10px;
+    background-color: #33CA88;
+}
+
+.contenedorNewsL{    
+    font-family: 'Montserrat', sans-serif!important;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.formNL{    
+    height: 50px;
+    /*IMPORTANTE*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.imgFoFace{
+    margin-right: 6px;
+    margin-top:10px;
+    margin-left: 2px;
+}
+
+.imgFoIg{
+    margin-top:10px;
+}
+.contenedorRedes{  
+    width: 100%;
+    color:#000000;
+    padding-top: 30px;
+    padding-left: 60px;
+}
+
+.redesTitle{
+    text-align: center;
+    color :#ffff;
+}
+
+.TitleP{
+    margin-left: 10px;
+}
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+  z-index:100;
+}
+.float:hover {
+	text-decoration: none;
+	color: #25d366;
+  background-color:#fff;
+}
+
+.my-float{
+	margin-top:16px;
+}

@@ -1,0 +1,89 @@
+.navbar a{
+    color:#4f4f4f;
+}
+
+.navbar .nav-item{
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;    
+}
+.navbar .navbar-nav .dropdown-item{
+    text-align: center;
+}
+
+.searchBar{
+    background-color: #dadada;    
+}
+
+.carritoBtnDesktop{
+    text-align: right;
+    margin-top: 25px;
+    margin-right: 0px;
+    margin-bottom: 25px;
+    width: 150px;
+}
+
+.carritoBtnDesktop h9{
+    font-weight: bold;
+    color:#4f4f4f;
+}
+
+.carritoBtnContainer {
+    text-align: center;
+    width: 150px;
+    display: block;
+    padding-right: 30px;
+    margin: 0 0 0 auto;
+}
+
+.carritoBtnMobile {
+    text-align: center;
+    padding-top: 25px;
+    padding-right: 30px;
+    margin: 0 0 0 auto;
+    width: 150px;
+}
+
+.carritoBtnMobile h9{
+    font-weight: bold;
+    color:#4f4f4f;
+}
+
+.logoSearchBar{
+    
+    margin-top: 25px;
+    padding-left:30px;
+    margin-bottom: 25px;
+    width: 150px;
+}
+
+.searchBarInput{
+    margin-top: 40px;
+    border-top-left-radius: 100px!important;
+    border-bottom-left-radius: 100px!important;
+}
+
+.searchBtn{
+    margin-top: 40px;
+    border-top-right-radius: 100px!important;
+    border-bottom-right-radius: 100px!important;
+    background-color: #6c757d!important;
+    color:#ffff!important;
+}
+
+.topBar{
+    background-color: black;
+    padding-bottom: 5px;    
+    text-align: right;
+}
+
+.topBar a{
+    font-size: 14px;
+    padding-left:10px ;
+    padding-right: 10px;
+    color:#Ffff;
+}
+
+.nav-item:hover>.dropdown-menu {
+    display: block;
+  }

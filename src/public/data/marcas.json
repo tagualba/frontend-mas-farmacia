@@ -1,0 +1,16 @@
+[
+    {
+        "idMarca": 1,
+        "nombre": "Vichi"
+        
+    },
+    {
+        "idMarca": 2,
+        "nombre": "Samsumg"
+        
+    },
+    {
+        "idMarca": 3,
+        "nombre": "Google"        
+    }
+]

@@ -1,0 +1,251 @@
+[
+    [
+        {
+            "id": 0,
+            "tittleFeatured": "Cosmeticos",
+            "items": [
+                {
+                    "id": 0,
+                    "name": "Producto",
+                    "marca": "marca",
+                    "price": "2.7",
+                    "path": "/resources/productoTest.jpg"
+                },
+                {
+                    "id": 1,
+                    "name": "Producto",
+                    "marca": "marca",
+                    "price": "10",
+                    "path": "/resources/productoTest.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Producto",
+                    "marca": "marca",
+                    "price": "10",
+                    "path": "/resources/productoTest.jpg"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "tittleFeatured": "Cosmeticos",
+            "items": [
+                {
+                    "id": 0,
+                    "name": "Producto",
+                    "marca": "marca",
+                    "price": "2.7",
+                    "path": "/resources/productoTest.jpg"
+                },
+                {
+                    "id": 1,
+                    "name": "Producto",
+                    "marca": "marca",
+                    "price": "10",
+                    "path": "/resources/productoTest.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Producto",
+                    "marca": "marca",
+                    "price": "10",
+                    "path": "/resources/productoTest.jpg"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "tittleFeatured": "Cosmeticos",
+            "items": [
+                {
+                    "id": 0,
+                    "name": "Producto",
+                    "marca": "marca",
+                    "price": "2.7",
+                    "path": "/resources/productoTest.jpg"
+                },
+                {
+                    "id": 1,
+                    "name": "Producto",
+                    "marca": "marca",
+                    "price": "10",
+                    "path": "/resources/productoTest.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Producto",
+                    "marca": "marca",
+                    "price": "10",
+                    "path": "/resources/productoTest.jpg"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "id": 4,
+            "tittleFeatured": "Cosmeticos",
+            "items": [
+                {
+                    "id": 0,
+                    "name": "Producto",
+                    "marca": "marca",
+                    "price": "2.7",
+                    "path": "/resources/productoTest.jpg"
+                },
+                {
+                    "id": 1,
+                    "name": "Producto",
+                    "marca": "marca",
+                    "price": "10",
+                    "path": "/resources/productoTest.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Producto",
+                    "marca": "marca",
+                    "price": "10",
+                    "path": "/resources/productoTest.jpg"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "tittleFeatured": "Cosmeticos",
+            "items": [
+                {
+                    "id": 0,
+                    "name": "Producto",
+                    "marca": "marca",
+                    "price": "2.7",
+                    "path": "/resources/productoTest.jpg"
+                },
+                {
+                    "id": 1,
+                    "name": "Producto",
+                    "marca": "marca",
+                    "price": "10",
+                    "path": "/resources/productoTest.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Producto",
+                    "marca": "marca",
+                    "price": "10",
+                    "path": "/resources/productoTest.jpg"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "tittleFeatured": "Cosmeticos",
+            "items": [
+                {
+                    "id": 0,
+                    "name": "Producto",
+                    "marca": "marca",
+                    "price": "2.7",
+                    "path": "/resources/productoTest.jpg"
+                },
+                {
+                    "id": 1,
+                    "name": "Producto",
+                    "marca": "marca",
+                    "price": "10",
+                    "path": "/resources/productoTest.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Producto",
+                    "marca": "marca",
+                    "price": "10",
+                    "path": "/resources/productoTest.jpg"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "id": 7,
+            "tittleFeatured": "Cosmeticos",
+            "items": [
+                {
+                    "id": 0,
+                    "name": "Producto",
+                    "marca": "marca",
+                    "price": "2.7",
+                    "path": "/resources/productoTest.jpg"
+                },
+                {
+                    "id": 1,
+                    "name": "Producto",
+                    "marca": "marca",
+                    "price": "10",
+                    "path": "/resources/productoTest.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Producto",
+                    "marca": "marca",
+                    "price": "10",
+                    "path": "/resources/productoTest.jpg"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "tittleFeatured": "Cosmeticos",
+            "items": [
+                {
+                    "id": 0,
+                    "name": "Producto",
+                    "marca": "marca",
+                    "price": "2.7",
+                    "path": "/resources/productoTest.jpg"
+                },
+                {
+                    "id": 1,
+                    "name": "Producto",
+                    "marca": "marca",
+                    "price": "10",
+                    "path": "/resources/productoTest.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Producto",
+                    "marca": "marca",
+                    "price": "10",
+                    "path": "/resources/productoTest.jpg"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "tittleFeatured": "Cosmeticos",
+            "items": [
+                {
+                    "id": 0,
+                    "name": "Producto",
+                    "marca": "marca",
+                    "price": "2.7",
+                    "path": "/resources/productoTest.jpg"
+                },
+                {
+                    "id": 1,
+                    "name": "Producto",
+                    "marca": "marca",
+                    "price": "10",
+                    "path": "/resources/productoTest.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Producto",
+                    "marca": "marca",
+                    "price": "10",
+                    "path": "/resources/productoTest.jpg"
+                }
+            ]
+        }
+    ]
+]
