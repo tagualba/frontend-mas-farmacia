@@ -1,5 +1,5 @@
 import { RenderComponent } from '../utils/renderUtil.js';
-import { agregarAlCarrito } from '../Function-Multiples-Scopes/FunctionsCarrito.js';
+//import { agregarAlCarrito } from '../Function-Multiples-Scopes/FunctionsCarrito.js';
 function RenderFeatures()
 {    
    fetch('data/featuredInfo.json')

@@ -17,6 +17,7 @@
     "email-templates": "^2.0.1",
     "express": "^4.17.1",
     "handlebars": "^4.0.2",
+    "mercadopago": "^1.5.2",
     "morgan": "^1.9.1",
     "nodemailer": "^1.4.0"
   },

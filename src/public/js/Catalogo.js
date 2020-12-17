@@ -6,7 +6,7 @@ window.onload = async function()
     RenderHeader();   
     RenderCatalog();
     RenderFooter();
-    filtros();        
+    //filtros();        
 }
 
 function filtros(){    
